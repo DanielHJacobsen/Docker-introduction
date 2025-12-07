@@ -14,6 +14,7 @@ In the end of the guide you will find a “docker cli”- and “docker compose 
 * [What is Docker?](#what-is-docker)
 * [Anatomy](#anatomy-)
   * [Dockerfile](#dockerfile)
+    * [Dockerfile script commands](#dockerfile-script-commands)
     * [Docker cli (Dockerfile related)](#docker-cli-dockerfile-related)
   * [Docker image](#docker-image)
     * [Docker cli (Docker image related)](#docker-cli-docker-image-related)
@@ -21,6 +22,10 @@ In the end of the guide you will find a “docker cli”- and “docker compose 
     * [Docker cli (Docker container related)](#docker-cli-docker-container-related)
   * [Docker compose](#docker-compose)
     * [Docker compose cli](#docker-compose-cli-)
+* [Cheat sheet](#cheat-sheet)
+    * [Dockerfile script commands](#dockerfile-script-commands-1)
+    * [Docker cli](#docker-cli)
+    * [Docker compose cli](#docker-compose-cli)
 <!-- TOC -->
 
 # What is Docker?
